@@ -7,7 +7,7 @@ I publish long-form tutorials  and courses about working with data in Google She
 
 Since 2017 I’ve released 10 online video courses teaching over 30,000 professionals how to use spreadsheets, work with data and learn how to program.
 
-In 2019, Google awarded me the Google Developer Expert title for Google Workspace technology.
+In 2019, Google awarded me the Google Developer Expert award for Google Workspace technology.
 
 I'm currently building data pipelines using BigQuery, Google Sheets, Apps Script and Data Studio.
 

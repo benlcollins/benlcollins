@@ -23,7 +23,7 @@ You’ll join a community of over 30,000 data analysts and get exclusive content
 
 ## Find me elsewhere:
 
-- WWW: [benlcollins.com](https://www.benlcollins.com/)
+- Web: [benlcollins.com](https://www.benlcollins.com/)
 - Twitter: [@benlcollins](https://twitter.com/benlcollins)
 
 ---

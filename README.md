@@ -1,4 +1,4 @@
-![benlcollins](https://www.benlcollins.com/wp-content/uploads/2020/06/cropped-BC-Horizontal-Color.png)
+![benlcollins](https://www.benlcollins.com/wp-content/uploads/2020/12/BC-Horizontal-Color.jpg)
 # Hello! 👋
 
 I’m an educator, writer and developer at [benlcollins.com](https://www.benlcollins.com/), and founder of [The Collins School of Data](https://courses.benlcollins.com/) and [SheetsCon](https://sheetscon.com/), the online conference for all things Google Sheets.

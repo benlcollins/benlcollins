@@ -11,22 +11,16 @@ In 2019, Google awarded me the Google Developer Expert award for Google Workspac
 
 I'm currently building data pipelines using BigQuery, Google Sheets, Apps Script and Data Studio.
 
----
-
 ## Newsletter
 
 Before you go, check out my weekly [Google Sheets Tips newsletter](https://www.benlcollins.com/google-sheets-tips/). I’ll even send you a free ebook of the first 100 Google Sheet tips.
 
 You’ll join a community of over 30,000 data analysts and get exclusive content.
 
----
-
 ## Find me elsewhere:
 
 - Web: [benlcollins.com](https://www.benlcollins.com/)
 - Twitter: [@benlcollins](https://twitter.com/benlcollins)
-
----
 
 ## ⚡ Fun fact: 
 [I like to climb mountains!](https://bencollinsoutdoors.com/)

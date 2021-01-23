@@ -9,7 +9,7 @@ Since 2017 I’ve released 10 online video courses teaching over 30,000 professi
 
 In 2019, Google awarded me the Google Developer Expert award for Google Workspace technology.
 
-I'm currently building data pipelines using BigQuery, Google Sheets, Apps Script and Data Studio.
+I'm currently building a live training cohort course, designed for early- to mid-career knowledge workers who want to get up to speed as quickly as possible on data analysis and automation concepts within Google Sheets. Launching towards the end of Q1 2021.
 
 ## Newsletter
 
